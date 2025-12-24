@@ -77,14 +77,7 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadFauzan98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFauzan98&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFauzan98&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="49%" alt="Top Languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadFauzan98&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15" width="49%" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 ## 🤝 Let's Connect
