@@ -11,12 +11,7 @@
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:muhammadfauzanzohaib@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=MuhammadFauzan98&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -92,17 +87,14 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
 I’m always open to discussing ideas, collaborations, or opportunities to learn and grow.
 
 <p>
-  <a href="mailto:muhammadfauzanzohaib@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/muhammad-fauzan-zohaib-a7a17432b/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://fauzanzohaib.vercel.app">
