@@ -29,43 +29,36 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 
 ---
 
-<table>
-<tr>
+## 🛠️ Tech Stack
+
+<div align="center">
 
 <!-- Languages -->
-<td valign="top" width="33%">
-<div align="center">
 <img src="https://skillicons.dev/icons?i=python" height="48"/>
 <img src="https://skillicons.dev/icons?i=javascript" height="48"/>
 <img src="https://skillicons.dev/icons?i=java" height="48"/>
 <img src="https://skillicons.dev/icons?i=dart" height="48"/>
 <img src="https://skillicons.dev/icons?i=postgres" height="48"/>
-</div>
-</td>
+
+<br/><br/>
 
 <!-- Frontend -->
-<td valign="top" width="33%">
-<div align="center">
 <img src="https://skillicons.dev/icons?i=html" height="48"/>
 <img src="https://skillicons.dev/icons?i=css" height="48"/>
 <img src="https://skillicons.dev/icons?i=flutter" height="48"/>
 <img src="https://skillicons.dev/icons?i=streamlit" height="48"/>
-</div>
-</td>
+
+<br/><br/>
 
 <!-- Backend & Tools -->
-<td valign="top" width="33%">
-<div align="center">
 <img src="https://skillicons.dev/icons?i=flask" height="48"/>
 <img src="https://skillicons.dev/icons?i=git" height="48"/>
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
 <img src="https://skillicons.dev/icons?i=gcp" height="48"/>
 <img src="https://skillicons.dev/icons?i=figma" height="48"/>
-</div>
-</td>
 
-</tr>
-</table>
+</div>
+
 
 ### Backend & Tools
 <div align="center">
