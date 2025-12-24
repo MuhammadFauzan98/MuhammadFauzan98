@@ -48,6 +48,8 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 <br/>
 <img src="https://skillicons.dev/icons?i=html" height="48"/>
 <img src="https://skillicons.dev/icons?i=css" height="48"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="48"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="48"/>
 <img src="https://skillicons.dev/icons?i=dart" height="48"/>
 <img src="https://skillicons.dev/icons?i=flutter" height="48"/>
 <img src="https://skillicons.dev/icons?i=streamlit" height="48"/>
@@ -73,6 +75,7 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 
 </tr>
 </table>
+
 
 ## 📊 GitHub Statistics
 
