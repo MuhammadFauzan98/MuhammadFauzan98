@@ -80,8 +80,10 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadFauzan98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadFauzan98&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFauzan98&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
 
 ---
 
