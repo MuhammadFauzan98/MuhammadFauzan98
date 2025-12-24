@@ -39,15 +39,15 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 <img src="https://skillicons.dev/icons?i=python" height="48"/>
 <img src="https://skillicons.dev/icons?i=javascript" height="48"/>
 <img src="https://skillicons.dev/icons?i=java" height="48"/>
-<img src="https://skillicons.dev/icons?i=dart" height="48"/>
 <img src="https://skillicons.dev/icons?i=postgres" height="48"/>
 </td>
 
 <td align="center" valign="top" width="33%">
 <h3>Frontend</h3>
-<br/><br/>
+<br/>
 <img src="https://skillicons.dev/icons?i=html" height="48"/>
 <img src="https://skillicons.dev/icons?i=css" height="48"/>
+<img src="https://skillicons.dev/icons?i=dart" height="48"/>
 <img src="https://skillicons.dev/icons?i=flutter" height="48"/>
 <img src="https://skillicons.dev/icons?i=streamlit" height="48"/>
 </td>
@@ -64,6 +64,7 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 
 </tr>
 </table>
+
 
 
 
