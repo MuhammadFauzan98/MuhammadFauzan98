@@ -78,20 +78,39 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 
 
 ## 📊 GitHub Statistics
+<!-- Profile Overview -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadFauzan98&theme=tokyonight" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadFauzan98&theme=tokyonight" 
+    alt="GitHub Profile Summary"
+  />
 </div>
 
+<br/>
+
+<!-- Languages & Core Stats -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadFauzan98&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadFauzan98&theme=tokyonight" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadFauzan98&theme=tokyonight" 
+    alt="Repos Per Language"
+    height="180"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadFauzan98&theme=tokyonight" 
+    alt="GitHub Stats"
+    height="180"
+  />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadFauzan98&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadFauzan98&theme=tokyonight&utcOffset=5.5" />
-</div>
+<br/>
 
+<!-- Productivity & Time -->
+<div align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadFauzan98&theme=tokyonight&utcOffset=5.5" 
+    alt="Productive Time"
+  />
+</div>
 
 ---
 
