@@ -8,7 +8,7 @@
   <a href="https://fauzanzohaib.vercel.app">
     <img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/muhammad-fauzan-zohaib-a7a17432b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
