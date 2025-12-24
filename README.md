@@ -35,6 +35,7 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 
 <td align="center" valign="top" width="33%">
 <h3>Languages</h3>
+<br/>
 <img src="https://skillicons.dev/icons?i=python" height="48"/>
 <img src="https://skillicons.dev/icons?i=javascript" height="48"/>
 <img src="https://skillicons.dev/icons?i=java" height="48"/>
@@ -44,6 +45,7 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 
 <td align="center" valign="top" width="33%">
 <h3>Frontend</h3>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=html" height="48"/>
 <img src="https://skillicons.dev/icons?i=css" height="48"/>
 <img src="https://skillicons.dev/icons?i=flutter" height="48"/>
@@ -52,6 +54,7 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 
 <td align="center" valign="top" width="33%">
 <h3>Backend & Tools</h3>
+<br/>
 <img src="https://skillicons.dev/icons?i=flask" height="48"/>
 <img src="https://skillicons.dev/icons?i=git" height="48"/>
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
@@ -61,6 +64,7 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 
 </tr>
 </table>
+
 
 
 ## 📊 GitHub Statistics
