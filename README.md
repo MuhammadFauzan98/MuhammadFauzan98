@@ -33,16 +33,17 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 <table align="center">
 <tr>
 
-<td align="center" valign="top" width="33%">
+<!-- Languages -->
+<td align="center" valign="top" width="25%">
 <h3>Languages</h3>
 <br/>
+<img src="https://skillicons.dev/icons?i=java" height="48"/>
 <img src="https://skillicons.dev/icons?i=python" height="48"/>
 <img src="https://skillicons.dev/icons?i=javascript" height="48"/>
-<img src="https://skillicons.dev/icons?i=java" height="48"/>
-<img src="https://skillicons.dev/icons?i=sqlite" height="48"/>
 </td>
 
-<td align="center" valign="top" width="33%">
+<!-- Frontend -->
+<td align="center" valign="top" width="25%">
 <h3>Frontend</h3>
 <br/>
 <img src="https://skillicons.dev/icons?i=html" height="48"/>
@@ -52,19 +53,26 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 <img src="https://skillicons.dev/icons?i=streamlit" height="48"/>
 </td>
 
-<td align="center" valign="top" width="33%">
-<h3>Backend & Tools</h3>
+<!-- Backend / Database -->
+<td align="center" valign="top" width="25%">
+<h3>Backend / Database</h3>
 <br/>
+<img src="https://skillicons.dev/icons?i=sqlite" height="48"/>
 <img src="https://skillicons.dev/icons?i=flask" height="48"/>
+</td>
+
+<!-- Developer Tools -->
+<td align="center" valign="top" width="25%">
+<h3>Developer Tools</h3>
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode" height="48"/>
 <img src="https://skillicons.dev/icons?i=git" height="48"/>
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
-<img src="https://skillicons.dev/icons?i=gcp" height="48"/>
 <img src="https://skillicons.dev/icons?i=figma" height="48"/>
 </td>
 
 </tr>
 </table>
-
 
 ## 📊 GitHub Statistics
 
