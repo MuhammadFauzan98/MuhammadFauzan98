@@ -28,7 +28,6 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 - 🧠 Believer in clean code, simplicity, and continuous learning
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -59,21 +58,6 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 
 </div>
 
-
-### Backend & Tools
-<div align="center">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</div>
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 GitHub Statistics
 
