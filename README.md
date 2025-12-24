@@ -79,14 +79,19 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 
 ## 📊 GitHub Statistics
 <div align="center">
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammadFauzan98&show_icons=true&theme=tokyonight&hide_border=true"
-       alt="GitHub Stats" />
-
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuhammadFauzan98&layout=compact&theme=tokyonight&hide_border=true"
-       alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadFauzan98&theme=tokyonight" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadFauzan98&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadFauzan98&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadFauzan98&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadFauzan98&theme=tokyonight&utcOffset=5.5" />
+</div>
+
 
 ---
 
