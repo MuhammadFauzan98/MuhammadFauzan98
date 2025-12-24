@@ -39,7 +39,7 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 <img src="https://skillicons.dev/icons?i=python" height="48"/>
 <img src="https://skillicons.dev/icons?i=javascript" height="48"/>
 <img src="https://skillicons.dev/icons?i=java" height="48"/>
-<img src="https://skillicons.dev/icons?i=sql" height="48"/>
+<img src="https://skillicons.dev/icons?i=sqlite" height="48"/>
 </td>
 
 <td align="center" valign="top" width="33%">
