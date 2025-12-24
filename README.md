@@ -66,8 +66,6 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 </table>
 
 
-
-
 ## 📊 GitHub Statistics
 
 <div align="center">
