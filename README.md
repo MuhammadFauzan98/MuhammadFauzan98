@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Muhammad Fauzan Zohaib
 
-### Full-Stack Developer | Python Specialist | Building Digital Solutions That Matter
+### Software Engineer | Building Digital Solutions That Matter
 
 <p>
   <a href="https://fauzanzohaib.vercel.app">
