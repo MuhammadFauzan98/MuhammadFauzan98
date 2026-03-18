@@ -5,7 +5,7 @@
 ### Software Engineer | Building Digital Solutions That Matter
 
 <p>
-  <a href="https://fauzanzohaib.vercel.app">
+  <a href="https://www.fauzan.tech/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammad-fauzan-zohaib-a7a17432b/">
@@ -124,7 +124,7 @@ I’m always open to discussing ideas, collaborations, or opportunities to learn
   <a href="https://www.linkedin.com/in/muhammad-fauzan-zohaib-a7a17432b/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://fauzanzohaib.vercel.app">
+  <a href="https://www.fauzan.tech/">
     <img src="https://img.shields.io/badge/Visit_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://github.com/MuhammadFauzan98">
