@@ -90,19 +90,18 @@ With a strong foundation in the **Python ecosystem** and **full-stack developmen
 
 <!-- Languages & Core Stats -->
 <div align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadFauzan98&theme=tokyonight" 
-    alt="Repos Per Language"
-    height="180"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadFauzan98&theme=tokyonight" 
-    alt="GitHub Stats"
-    height="180"
-  />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=MuhammadFauzan98&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFauzan98&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MuhammadFauzan98&theme=tokyonight&hide_border=true"/>
+</div>
 
 <!-- Productivity & Time -->
 <div align="center">
